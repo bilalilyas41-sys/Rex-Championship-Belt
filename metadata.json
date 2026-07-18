@@ -1,0 +1,6 @@
+{
+  "name": "Rex Championship Belts",
+  "description": "Premium custom championship belts for wrestling, boxing, MMA, and corporate events. Explore our state-of-the-art catalog and design your own champion belt with our real-time interactive belt customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
